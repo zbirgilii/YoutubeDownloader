@@ -1,5 +1,5 @@
 import os
-from pytube import YouTube, Playlist
+from pytubefix import YouTube, Playlist
 from pydub import AudioSegment
 
 def download_video(video_url, output_folder):
